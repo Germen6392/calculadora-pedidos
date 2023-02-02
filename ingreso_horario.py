@@ -10,7 +10,6 @@ print(f"- {opciones_horario[2]}: su horario es viernes a domingo de 20 hs hasta 
 print(f"- {opciones_horario[3]}: su horario es domingo de 8 a 20 hs")
 
 horario_elegido = input("Elige: Dia, Noche, Especial, Domingo: ")
-print(horario_elegido)
 
 # Tarifas de envío
 
